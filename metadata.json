@@ -1,0 +1,5 @@
+{
+  "name": "Kannada Translator",
+  "description": "A minimalist web application that translates English text to Kannada using the Gemini API, providing a clean and intuitive user interface for seamless translation.",
+  "requestFramePermissions": []
+}
